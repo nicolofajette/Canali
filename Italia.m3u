@@ -95,7 +95,7 @@ https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Super.it" tvg-chno="47" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/super.png" group-title="Altro",Super!
-https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="Rai",Rai News 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
@@ -134,7 +134,7 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Golazo.it" tvg-chno="63" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="Sport",Golazo - SerieA(VpnUSA)
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Sport",Supertennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTv.it" tvg-chno="65" tvg-logo="http://odmsto.com/uploads/tv_image/sm/motorvision-tv.JPG" group-title="Sport",Motorvision Tv
 https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_720p_high.m3u8
 #EXTINF:-1 tvg-id="MSChannel.it" tvg-chno="66" tvg-logo="http://odmsto.com/uploads/tv_image/sm/ms-channel.JPG" group-title="Sport",MS Channel
@@ -187,7 +187,13 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarinoSport.it" tvg-chno="103" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino-sport.png" group-title="Altro",RTV San Marino Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="SkySport.it" tvg-chno="104" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino-sport.png" group-title="Altro",Sky Sport
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/OFF/11222/skysportweb/master.m3u8
+#EXTINF:-1 tvg-id="bein sport xtra" tvg-name="Bein sport xtra" tvg-logo="http://tv.10dailythings.com/images/channels/UNS/bein-sports-xtra-en-espanol/normal.png" group-title="Sport",Bein sport xtra
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceId=0&deviceModel=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&deviceDNT=0
+#EXTINF:-1 tvg-id="redbull tv" tvg-name="RedBull Tv" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" group-title="Sport",RedBull Tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="eurosport1" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="Sport",Es 1
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT)/index.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://t3.ftcdn.net/jpg/05/17/13/48/360_F_517134830_khmyeQ5beRJeAR4kIBgZKeygKAW151Dn.jpg" group-title="Sport",Es 2
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(EUROSPORT2)/index.m3u8
