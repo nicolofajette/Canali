@@ -131,19 +131,13 @@ https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia24.it" tvg-chno="62" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="Sport",Sportitalia 24
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Golazo.it" tvg-chno="63" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="Sport",Golazo - SerieA(VpnUSA)
-http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Sport",Supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="MotorvisionTv.it" tvg-chno="65" tvg-logo="http://odmsto.com/uploads/tv_image/sm/motorvision-tv.JPG" group-title="Sport",Motorvision Tv
 https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_720p_high.m3u8
-#EXTINF:-1 tvg-id="MSChannel.it" tvg-chno="66" tvg-logo="http://odmsto.com/uploads/tv_image/sm/ms-channel.JPG" group-title="Sport",MS Channel
-https://96vd9q7ryxq7-hls-live.mariatvcdn.it/ms/ea0e4a77baa23e917acaf517042ac7d8.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MSMotorsTv.it" tvg-chno="67" tvg-logo="http://odmsto.com/uploads/tv_image/sm/ms-motors-tv.JPG" group-title="Sport",MS Motors Tv
-https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MotorsportTv.it" tvg-chno="68" tvg-logo="http://odmsto.com/uploads/tv_image/sm/motorsport-tv.png" group-title="Sport",Motorsport Tv
+#EXTINF:-1 tvg-id="MotorsportTv.it" tvg-chno="66" tvg-logo="http://odmsto.com/uploads/tv_image/sm/motorsport-tv.png" group-title="Sport",Motorsport Tv
 https://stream10.xdevel.com/video7s977812-2253/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ACISportTv.it" tvg-chno="69" tvg-logo="http://odmsto.com/uploads/tv_image/sm/aci-sport-tv.JPG" group-title="Sport",ACI Sport Tv
+#EXTINF:-1 tvg-id="ACISportTv.it" tvg-chno="67" tvg-logo="http://odmsto.com/uploads/tv_image/sm/aci-sport-tv.JPG" group-title="Sport",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="80" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Radio",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -187,3 +181,9 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarinoSport.it" tvg-chno="103" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtv-smarino-sport.png" group-title="Altro",RTV San Marino Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-id="Golazo.it" tvg-chno="110" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="Sport",Golazo - SerieA(VpnUSA)
+http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Golazo.it" tvg-chno="111" tvg-logo="https://images.pluto.tv/channels/65ea8b928145cb0008509426/colorLogoPNG.png" group-title="Sport",Golazo - Champions League(VpnUSA)
+http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Golazo.it" tvg-chno="112" tvg-logo="https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG.png" group-title="Sport",FanDuel Tv Extra(VpnUSA)
+http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
