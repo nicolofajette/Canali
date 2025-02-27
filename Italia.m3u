@@ -185,5 +185,5 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="FanDuelTv.it" tvg-chno="111" tvg-logo="https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG.png" group-title="Sport",FanDuel Tv Extra
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="tdp.es" tvg-chno="112" tvg-logo="https://i.imgur.com/HliegRJ.png" group-title="Sport",Tdp
-https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main_1080.m3u8
+#EXTINF:-1 tvg-id="FanDuelTv.it" tvg-chno="111" tvg-logo="https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG.png" group-title="Sport",Test
+rtp://239.186.76.3:10000
