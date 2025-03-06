@@ -129,7 +129,7 @@ https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSoloCalcio.it" tvg-chno="61" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-solocalcio.jpg" group-title="Sport",Sportitalia Solocalcio
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-chno="62" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="Sport",Sportitalia 24
+#EXTINF:-1 tvg-id="Sportitalia24.it" tvg-chno="62" tvg-logo="http://odmsto.com/uploads/tv_image/sm/sportitalia-24-live.jpg" group-title="Sport",Sportitalia Primavera TV
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Sport",Supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
@@ -193,15 +193,15 @@ http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/ma
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-chno="115" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Sport",Teledeporte
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
-#EXTINF:-1 tvg-id="Dazn.ca" tvg-chno="116" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" group-title="Sport",Teledeporte
-http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/647f07e74cfc2c0008a2e557/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-chno="116" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sport",TSN1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN2
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-chno="117" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sport",TSN2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports",TSN3
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-chno="118" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sport",TSN3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-chno="119" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sport",TSN4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-chno="120" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sport",TSN5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="DaznDarts.us" tvg-chno="121" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Sport",DAZN Darts
+http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
