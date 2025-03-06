@@ -195,3 +195,13 @@ http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/650b68bc2ce8e40008ac9c14/ma
 https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-id="Dazn.ca" tvg-chno="116" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" group-title="Sport",Teledeporte
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/647f07e74cfc2c0008a2e557/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="Sports",TSN1 (1080p)
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" group-title="Sports",TSN2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/AYza8KO.png" group-title="Sports",TSN3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/qJyAWU8.png" group-title="Sports",TSN4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" group-title="Sports",TSN5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
