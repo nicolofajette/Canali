@@ -28,7 +28,7 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.it" tvg-chno="11" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenord.png" group-title="Locali",Telenord
 https://5f22d76e220e1.streamlock.net:443/telenord/telenord/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.it" tvg-chno="11" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Locali",Rai 3 Liguria
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72920&output=16&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=72920&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
