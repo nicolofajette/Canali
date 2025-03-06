@@ -27,10 +27,10 @@ https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord.it" tvg-chno="11" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenord.png" group-title="Locali",Telenord
 https://5f22d76e220e1.streamlock.net:443/telenord/telenord/playlist.m3u8
-#EXTINF:-1 tvg-id="RSILa1.ch" tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/512px-RSI_La_1_2012.svg.png" group-title="Altro",RSI La1
+#EXTINF:-1 tvg-id="RSILa1.it" tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/512px-RSI_La_1_2012.svg.png" group-title="Altro",RSI La1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://cachehsi1a.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
-#EXTINF:-1 tvg-id="RSILa2.ch" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png" group-title="Altro",RSI La2
+#EXTINF:-1 tvg-id="RSILa2.it" tvg-chno="13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png" group-title="Altro",RSI La2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://cachehsi1a.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
