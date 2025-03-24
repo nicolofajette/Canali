@@ -4,3 +4,4 @@ Questa repository contiene una lista m3u per tutti i canali TV e Radio nazionali
 ## Cosa contiene il repository
 - Lista m3u Italia: https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/Italia.m3u
 - EPG Italia: http://rebrand.ly/epgitalia
+- [Logos](https://github.com/nicolofajette/Canali/tree/main/logos): loghi dei canali presenti nella Lista m3u Italia
