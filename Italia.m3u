@@ -352,3 +352,28 @@ https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/ra
 
 #EXTINF:-1 tvg-id="radio24tv.it" tvg-chno="316" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio24tv.svg" group-title="Radio",Radio 24 - Il Sole 24 Ore TV Sport
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/stream2.m3u8
+
+
+#EXTINF:-1 tvg-id="Sky24.it" tvg-chno="400" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport 24
+http://51.83.42.53:8080/sky/hls/sky24/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-chno="401" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Uno
+http://51.83.42.53:8080/sky/hls/skyuno/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyTennis.it" tvg-chno="402" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Tennis
+http://51.83.42.53:8080/sky/hls/tennis/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyArena.it" tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Arena
+http://51.83.42.53:8080/sky/hls/arena/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Max
+http://51.83.42.53:8080/sky/hls/skymax/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-chno="405" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport MotoGP
+http://51.83.42.53:8080/sky/hls/moto/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportNba.it" tvg-chno="406" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Nba
+http://51.83.42.53:8080/sky/hls/skynba/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-chno="407" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Calcio
+http://51.83.42.53:8080/sky/hls/calcio/index.m3u8
