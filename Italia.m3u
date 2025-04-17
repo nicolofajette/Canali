@@ -354,26 +354,65 @@ https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/ra
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/stream2.m3u8
 
 
-#EXTINF:-1 tvg-id="Sky24.it" tvg-chno="400" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport 24
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-chno="400" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport24
 http://51.83.42.53:8080/sky/hls/sky24/index.m3u8
 
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-chno="401" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Uno
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-chno="401" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Uno
 http://51.83.42.53:8080/sky/hls/skyuno/index.m3u8
 
-#EXTINF:-1 tvg-id="SkyTennis.it" tvg-chno="402" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Tennis
+#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-chno="402" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Tennis
 http://51.83.42.53:8080/sky/hls/tennis/index.m3u8
 
-#EXTINF:-1 tvg-id="SkyArena.it" tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Arena
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Arena
 http://51.83.42.53:8080/sky/hls/arena/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySportMax.it" tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Max
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Max
 http://51.83.42.53:8080/sky/hls/skymax/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-chno="405" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport MotoGP
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-chno="405" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport F1
+http://51.83.42.53:8080/sky/hls/formula/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-chno="406" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport MotoGP
 http://51.83.42.53:8080/sky/hls/moto/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySportNba.it" tvg-chno="406" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Nba
+#EXTINF:-1 tvg-id="SkySportNba.it" tvg-chno="407" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Nba
 http://51.83.42.53:8080/sky/hls/skynba/index.m3u8
 
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-chno="407" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky", Sky Sport Calcio
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-chno="408" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Calcio
 http://51.83.42.53:8080/sky/hls/calcio/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-chno="409" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.svg" group-title="Sky",Eurosport 1
+http://51.83.42.53:8080/sky/hls/eurosport1/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-chno="410" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.svg" group-title="Sky",Eurosport 2
+http://51.83.42.53:8080/sky/hls/eurosport2/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport251.it" tvg-chno="411" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport  251
+http://51.83.42.53:8080/sky/hls/sky251/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport252.it" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport  252
+http://51.83.42.53:8080/sky/hls/sky252/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport253.it" tvg-chno="413" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport  253
+http://51.83.42.53:8080/sky/hls/sky253/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport254.it" tvg-chno="414" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport  254
+http://51.83.42.53:8080/sky/hls/sky254/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport255.it" tvg-chno="415" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport  255
+http://51.83.42.53:8080/sky/hls/sky255/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport256.it" tvg-chno="416" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport  256
+http://51.83.42.53:8080/sky/hls/sky256/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport257.it" tvg-chno="417" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport  257
+http://51.83.42.53:8080/sky/hls/sky257/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport258.it" tvg-chno="418" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport  258
+http://51.83.42.53:8080/sky/hls/sky258/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySport259.it" tvg-chno="419" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport  259
+http://51.83.42.53:8080/sky/hls/sky259/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN1.it" tvg-chno="420" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sky",DAZN 1
+http://51.83.42.53:8080/sky/hls/dazn1/index.m3u8
