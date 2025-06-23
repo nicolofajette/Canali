@@ -237,19 +237,16 @@ https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/pl
 
 
 
-#EXTINF:-1 tvg-id="MotorvisionTv.it" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/motorvision.webp" group-title="Sport",Motorvision Tv
-https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv_720p_high.m3u8
-
-#EXTINF:-1 tvg-id="MotorsportTv.it" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/motorsporttv.webp" group-title="Sport",Motorsport Tv
+#EXTINF:-1 tvg-id="MotorsportTv.it" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/motorsporttv.webp" group-title="Sport",Motorsport Tv
 https://stream10.xdevel.com/video7s977812-2253/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ACISportTv.it" tvg-chno="203" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/acisporttv.webp" group-title="Sport",ACI Sport Tv
+#EXTINF:-1 tvg-id="ACISportTv.it" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/acisporttv.webp" group-title="Sport",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
-#EXTINF:-1 tvg-id="Automoto.it" tvg-chno="204" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/automoto.svg" group-title="Sport",Automoto
+#EXTINF:-1 tvg-id="Automoto.it" tvg-chno="203" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/automoto.svg" group-title="Sport",Automoto
 https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PlusTvSport.it" tvg-chno="205" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/plustvsport.webp" group-title="Sport",Plus TV Sport
+#EXTINF:-1 tvg-id="PlusTvSport.it" tvg-chno="204" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/plustvsport.webp" group-title="Sport",Plus TV Sport
 https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PlusTvMotori.it" tvg-chno="205" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/plustvmotori.webp" group-title="Sport",Plus TV Motori
@@ -258,8 +255,8 @@ https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648
 #EXTINF:-1 tvg-id="Golazo.us" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/golazo.webp" group-title="Sport",Golazo - SerieA
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/beinsportxtra.webp" group-title="Sport",beIN SPORTS XTRA
-http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="NBCSports.us" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/nbcsports.webp" group-title="Sport",NBC Sports
+http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6549306c83595c000815a696/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="CBDSportsHQ.us" tvg-chno="212" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="Sport",CBS Sports HQ
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
