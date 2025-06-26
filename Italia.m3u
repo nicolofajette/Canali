@@ -343,3 +343,6 @@ https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 
 #EXTINF:-1 tvg-id="radio1sport.it" tvg-chno="315" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rairadio1sport.svg" group-title="Radio",Rai Radio 1 Sport
 https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/radiounosportita/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radio24tv.it" tvg-chno="316" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio24tv.svg" group-title="Radio",Radio 24 - Il Sole 24 Ore TV Sport
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/stream2.m3u8
