@@ -219,6 +219,12 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay2/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="RaiPlay3.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiplaylive.svg" group-title="Rai",Rai Play 3
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/playlist_mo.m3u8
 
+#EXTINF:-1 tvg-id="RaiPlaySport1.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiplaylive.svg" group-title="Rai",Rai Play Sport 1
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/playlist_mo.m3u8
+
+#EXTINF:-1 tvg-id="RaiPlaySport2.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiplaylive.svg" group-title="Rai",Rai Play Sport 2
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/playlist_mo.m3u8
+
 #EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai3.svg" group-title="Rai",Rai 3 Liguria
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
