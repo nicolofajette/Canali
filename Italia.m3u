@@ -180,7 +180,7 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:sisolocalcio.smil/playlist.m3
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive2402.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TravelTV.it" tvg-chno="61" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/traveltv.webp" group-title="Altro",Travel TV
-https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
+https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/donnatv.webp" group-title="Altro",Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
@@ -224,6 +224,24 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/playlist_mo.m3u8
 
 #EXTINF:-1 tvg-id="RaiPlaySport2.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiplaylive.svg" group-title="Rai",Rai Play Sport 2
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/playlist_mo.m3u8
+
+#EXTINF:-1 tvg-id="RaiPlaySport2.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiplaylive.svg" group-title="Rai",Rai Play Sport 2
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/playlist_mo.m3u8
+
+#EXTINF:-1 tvg-id="RaiItaliaAfrica.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiitalia.svg" group-title="Rai",Rai Italia Africa
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
+#EXTINF:-1 tvg-id="RaiItaliaSudAmerica.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiitalia.svg" group-title="Rai",Rai Italia Sud America
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+
+#EXTINF:-1 tvg-id="RaiItaliaAustralia.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiitalia.svg" group-title="Rai",Rai Italia Australia
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
+
+#EXTINF:-1 tvg-id="RaiPremiumWorld.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raipremium.svg" group-title="Rai",Rai Premium World
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+
+#EXTINF:-1 tvg-id="MediasetItalia.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/mediasetextra.svg" group-title="Mediaset",Mediaset Italia
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai3.svg" group-title="Rai",Rai 3 Liguria
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -276,7 +294,10 @@ http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-chno="215" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/foxsports.webp" group-title="Sport",Fox Sports 2
 https://tvpass.org/live/FoxSports2/hd
 
-#EXTINF:-1 tvg-id="FanDuelTv.us" tvg-chno="216" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/fandueltv.webp" group-title="Sport",FanDuel Tv Extra
+#EXTINF:-1 tvg-id="FanDuelTv.us" tvg-chno="216" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/fandueltv.webp" group-title="Sport",FanDuel Tv
+https://fl3.moveonjoy.com/PAC_12/index.m3u8
+
+#EXTINF:-1 tvg-id="FanDuelTvExtra.us" tvg-chno="216" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/fandueltv.webp" group-title="Sport",FanDuel Tv Extra
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="DaznDarts.com" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/dazndarts.webp" group-title="Sport",DAZN Darts
@@ -303,6 +324,17 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="MTRSPT1.us" tvg-chno="224" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/mtrspt1.webp" group-title="Sport",MTRSPT1
 https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="fubo.us" tvg-chno="225" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/fubo.webp" group-title="Sport",Fubo
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-chno="226" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+
+#EXTINF:-1 tvg-id="LEquipe1.fr" tvg-chno="226" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe 1
+https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
+
+#EXTINF:-1 tvg-id="LEquipme2.fr" tvg-chno="226" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe 2
+https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 
 
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio105.svg" group-title="Radio",Radio 105 TV
@@ -350,5 +382,5 @@ https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-id="radio1sport.it" tvg-chno="315" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rairadio1sport.svg" group-title="Radio",Rai Radio 1 Sport
 https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/radiounosportita/playlist.m3u8
 
-#EXTINF:-1 tvg-id="radio24tv.it" tvg-chno="316" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio24tv.svg" group-title="Radio",Radio 24 - Il Sole 24 Ore TV Sport
+#EXTINF:-1 tvg-id="radio24tv.it" tvg-chno="316" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio24tv.webp" group-title="Radio",Radio 24 - Il Sole 24 Ore TV Sport
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/stream2.m3u8
