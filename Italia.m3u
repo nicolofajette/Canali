@@ -184,7 +184,7 @@ https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/supertennis.svg" group-title="Sport",Supertennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis+1.it" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/supertennisplus.svg" group-title="Sport",Supertennis Plus - Feed 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
