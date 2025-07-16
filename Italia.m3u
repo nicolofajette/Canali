@@ -248,9 +248,6 @@ https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest
 #EXTINF:-1 tvg-id="SMtv.it" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/sanmarinotv.svg" group-title="Altro",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="SMtvSport.it" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/sanmarinotvsport.svg" group-title="Altro",RTV San Marino Sport
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
-
 #EXTINF:-1 tvg-id="senatotv1.it" tvg-chno="106" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/senato.webp" group-title="Altro",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 
@@ -267,12 +264,6 @@ https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
 #EXTINF:-1 tvg-id="Automoto.it" tvg-chno="203" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/automoto.svg" group-title="Sport",Automoto
 https://3f70a96a11dd4da88ee87c52fdd0521c.msvdn.net/live/S75749031/EYqrcmlFWlJD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlusTvSport.it" tvg-chno="204" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/plustvsport.webp" group-title="Sport",Plus TV Sport
-https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlusTvMotori.it" tvg-chno="205" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/plustvmotori.webp" group-title="Sport",Plus TV Motori
-https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Golazo.us" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/golazo.webp" group-title="Sport",Golazo - SerieA
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
