@@ -258,7 +258,7 @@ https://www.dailymotion.com/cdn/live/video/x9h54mc.m3u8?sec=Vz57vzEFun3vCVlXi5yN
 
 
 #EXTINF:-1 tvg-id="MotorsportTv.it" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/motorsporttv.webp" group-title="Sport",Motorsport Tv
-https://stream10.xdevel.com/video7s977812-2253/stream/playlist.m3u8
+https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
 
 #EXTINF:-1 tvg-id="ACISportTv.it" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/acisporttv.webp" group-title="Sport",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
@@ -413,5 +413,92 @@ https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/ra
 https://760869f771b04ca8a1e4daa89dd6da3e.msvdn.net/live/S88650405/33lZG4owunfW/manifest.mpd
 
 #EXTINF:-1 tvg-id="radioSportiva.it" tvg-chno="317" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiosportiva.webp" group-title="Radio",Radio Sportiva
-
 https://sportiva.inmystream.it/stream/sportiva
+
+
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-chno="400" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport24
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTI0MWMyMGNmNjI3LTkwN2ItZjZiNC0zOWI4LTg0NGNkNzc0/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-chno="401" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Uno
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YzJhOTdlZjRjNzRlLTZhZDgtMWI5NC1hN2M3LTMyZGMxMzZh/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-chno="402" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Tennis
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2QyMjJhM2Y2ZGFkLTUxNjgtZGJiNC0wZGFjLTRkYzFmNWFl/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-chno="403" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Arena
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTliZjk4MDY3MzNkLWM0MmEtYzBmNC1jMjkwLTk4ZDBlODM2/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-chno="404" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport F1
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MGNjZGVlZjE0ZmY0LWRiMmItMDQxNC0yMTAzLWQ2NDdlMzY1/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-chno="405" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport MotoGP
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2Y2YTFiODJmNTAzLTExYmItY2ExNC04M2I0LThhNWFjOTM2/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-chno="406" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Calcio
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MjgzYmVkM2FmYzJmLTcwZDktNWZlNC1kMTEyLTdjN2NiNTBh/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-chno="407" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport Max
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTlkN2NkMWNiNGVlLTRjZGEtZTUxNC1mMzliLTQ0ODZhNjcx/master.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-chno="410" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sky",Eurosport 1
+https://windnew.newkso.ru/wind/premium878/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-chno="411" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sky",Eurosport 2
+https://windnew.newkso.ru/wind/premium879/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Dazn.it" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sky",Dazn 1
+https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySport251.it" tvg-chno="421" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport 251
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTA0MjZiNmNkM2QzLWJiOGEtMDQ0NC02YzYxLWY2MWI0MzRk/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySport252.it" tvg-chno="422" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport 252
+https://windnew.newkso.ru/wind/premium872/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySport253.it" tvg-chno="423" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport 253
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmI2NzVkNWEyODZjLWEzZTgtN2UzNC0wMzFiLTA3MTk0NDA0/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySport254.it" tvg-chno="424" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport 254
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjE1ZDhhODI1MzE4LThjMjgtZjQzNC0wZGYyLTkyMzQwYmFm/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySport255.it" tvg-chno="425" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport 255
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmJlZjY4ZjEyOTU4LThhZjgtZjk1NC1iNDVhLWJhZTU1ODhm/master.m3u8
+
+#EXTINF:-1 tvg-id="SkySport256.it" tvg-chno="426" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Sport 256
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzUxYjBlZTkxYTk5LTFiMjgtMGEzNC1jMzZjLWQ0ODgzYTUz/master.m3u8
+
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-chno="431" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Uno
+https://windnew.newkso.ru/wind/premium881/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="SkySerie.it" tvg-chno="432" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sky",Sky Serie
+https://windnew.newkso.ru/wind/premium880/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Dazn1.es" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sky",Dazn 1 Spain
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDgzYzhiMmI1MmU1LWFkOGItNTQzNC1jMWFhLTBjZDZhZDQ4/master.m3u8
+
+#EXTINF:-1 tvg-id="Dazn2.es" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sky",Dazn 2 Spain
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTU2ZTBkNmFhNDBkLTNlZWEtMGU4NC01YjZiLWI3ZTdjMjAz/master.m3u8
+
+#EXTINF:-1 tvg-id="Dazn3.es" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sky",Dazn 3 Spain
+https://zekonew.newkso.ru/zeko/premium447/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="Dazn4.es" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sky",Dazn 4 Spain
+https://zekonew.newkso.ru/zeko/premium448/mono.m3u8|referer=https://webxzplay.cfd/
+
+#EXTINF:-1 tvg-id="DaznF1.es" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sky",Dazn F1 Spain
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTVkYTM4NWZjNTU0LWJhOGItZDMzNC01ODMzLTRkNjliNThi/master.m3u8
+
+#EXTINF:-1 tvg-id="TNT1.uk" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sky",TNT Sport 1 UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjRkNjFhMGRlZmU4LTM2Y2ItMWRjNC1iYTA3LTkyYTQwZjY1/master.m3u8
+
+#EXTINF:-1 tvg-id="TNT2.uk" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sky",TNT Sport 2 UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2ExZjA5ZTVmODY4LTdlZWItMTU3NC1jNjJiLTE3NTA1MGYw/master.m3u8
+
+#EXTINF:-1 tvg-id="TNT3.uk" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sky",TNT Sport 3 UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZWFmNDQzMmIyNzdlLTUzYzgtNDM4NC0wZGQ4LTMwODk0ZTgw/master.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.uk" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sky",TNT Sport 4 UK
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGFkMzRlNTY2MmRlLTk2OWEtODJmNC02Y2E5LWUxOTc3MmIw/master.m3u8
+
+#EXTINF:-1 tvg-id="test.t" tvg-chno="412" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Test", Test
+https://ddy6new.newkso.ru/ddy6/premium461/mono.m3u8
