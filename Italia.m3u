@@ -337,8 +337,11 @@ https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
 #EXTINF:-1 tvg-id="LEquipe2.fr" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe 2
 https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 
-#EXTINF:-1 tvg-id="Teledeportes.es" tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",Teledeportes
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+#EXTINF:-1 tvg-id="ServusTV.de" tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/servustv.webp" group-title="Sport",ServusTV
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport.de" tvg-chno="223" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/eurosport.webp" group-title="Sport",Eurosport De
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
 
 
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio105.svg" group-title="Radio",Radio 105 TV
