@@ -37,10 +37,10 @@ https://5f22d76e220e1.streamlock.net:443/telenord/telenord/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RSILa1.it" tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila1.svg" group-title="Altro",RSI La1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 
 #EXTINF:-1 tvg-id="RSILa2.it" tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila2.svg"  group-title="Altro",RSI La2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/20.svg" group-title="Mediaset",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -70,7 +70,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LA7D.it" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/la7d.svg" group-title="Altro",LA7d
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 #EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/la5.svg" group-title="Mediaset",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
@@ -154,7 +154,7 @@ https://dncwa2a3o9ock.cloudfront.net/playlist/amg16146-warnerbrosdiscoveryitalia
 https://raiscuola1-dash-live.akamaized.net/dash/live/663975/raiscuola1/manifest.mpd
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="58" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raisport.svg" group-title="Rai",Rai Sport
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 
 #EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/motortrend.svg" group-title="Discovery",Motor Trend
 https://d3k8z7jdiq6btv.cloudfront.net/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
@@ -334,10 +334,10 @@ https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
 https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
 
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/servustv.webp" group-title="Sport",ServusTV
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.de" tvg-chno="223" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/eurosport.webp" group-title="Sport",Eurosport De
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
 
 
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio105.svg" group-title="Radio",Radio 105 TV
