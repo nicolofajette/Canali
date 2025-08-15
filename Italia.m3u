@@ -241,9 +241,6 @@ https://tgrliguria-live.akamaized.net/hls/live/2025565/tgrliguria/tgrliguria/pla
 #EXTINF:-1 tvg-id="SMtv.it" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/sanmarinotv.svg" group-title="Altro",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="SMtv.it" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/sanmarinotv.svg" group-title="Altro",RTV Sport
-https://smrtvlive.b-cdn.net/bcdn_token=MOjUdoH0sONgXP-F1goZlRD2_Pre6M4-eop0LwTcMrY&token_path=%2Flive&expires=1753350759/live/smrtv-ch02/playlist.m3u8
-
 #EXTINF:-1 tvg-id="senatotv1.it" tvg-chno="106" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/senato.webp" group-title="Altro",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 
@@ -327,12 +324,6 @@ https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
 
-#EXTINF:-1 tvg-id="LEquipe1.fr" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe 1
-https://d3awaj0f2u3w26.cloudfront.net/4/media.m3u8
-
-#EXTINF:-1 tvg-id="LEquipe2.fr" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe 2
-https://d2l55nvfkhk4sg.cloudfront.net/4/media.m3u8
-
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/servustv.webp" group-title="Sport",ServusTV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 
@@ -380,10 +371,11 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="rdstvseriea" tvg-chno="314" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiotvseriea.webp" group-title="Radio",Radio TV Serie A
-https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+https://cdn-edge-05-edc-mi-caldera.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 
 #EXTINF:-1 tvg-id="radio1sport.it" tvg-chno="315" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rairadio1sport.svg" group-title="Radio",Rai Radio 1 Sport
 https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/radiounosportita/playlist.m3u8
 
 #EXTINF:-1 tvg-id="radio24tv.it" tvg-chno="316" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio24tv.webp" group-title="Radio",Radio 24 - Il Sole 24 Ore TV Sport
-https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/stream2.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://760869f771b04ca8a1e4daa89dd6da3e.msvdn.net/live/S88650405/33lZG4owunfW/manifest.mpd
