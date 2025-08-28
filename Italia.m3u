@@ -289,19 +289,19 @@ http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/ma
 http://fl3.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn1.webp" group-title="Sport",TSN1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
+https://tvpass.org/live/tsn1/hd
 
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn2.webp" group-title="Sport",TSN2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
+https://tvpass.org/live/tsn2/hd
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn3.webp" group-title="Sport",TSN3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
+https://tvpass.org/live/tsn3/hd
 
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn4.webp" group-title="Sport",TSN4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
+https://tvpass.org/live/tsn4/hd
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",TSN5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
+https://tvpass.org/live/tsn5/hd
 
 #EXTINF:-1 tvg-id="ESPNNews.us" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN News
 https://tvpass.org/live/ESPNews/hd
@@ -329,6 +329,9 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 
 #EXTINF:-1 tvg-id="Eurosport.de" tvg-chno="223" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/eurosport.webp" group-title="Sport",Eurosport De
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-chno="224" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/teledeporte.webp" group-title="Sport",Teledeporte
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
 
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio105.svg" group-title="Radio",Radio 105 TV
