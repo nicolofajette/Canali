@@ -22,7 +22,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tv8.svg" group-title="Sky",TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1758090459~exp=1758090759~acl=/*~hmac=4956b1c4f17c980e8d2244c63e15fca09cf17cb571ac77c73410cfb4885dc3bd
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1759690163~exp=1759690463~acl=/*~hmac=22583fc1e3b12602ccdd4b4dd5e21b2e33e178c804d39f5017281f3f9eb1a3a0
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/nove.png" group-title="Discovery",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
@@ -61,7 +61,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cielo.svg" group-title="Sky",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1758090459~exp=1758090759~acl=/*~hmac=4956b1c4f17c980e8d2244c63e15fca09cf17cb571ac77c73410cfb4885dc3bd
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1759690163~exp=1759690463~acl=/*~hmac=22583fc1e3b12602ccdd4b4dd5e21b2e33e178c804d39f5017281f3f9eb1a3a0
 
 #EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/twentyseven.svg" group-title="Mediaset",Twenty Seven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
@@ -69,7 +69,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="TV2000.it" tvg-chno="28" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tv2000.svg" group-title="Altro",TV2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LA7D.it" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/la7d.svg" group-title="Altro",LA7d
+#EXTINF:-1 tvg-id="LA7Cinema.it" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/la7cinema.svg" group-title="Altro",LA7 Cinema
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 
 #EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/la5.svg" group-title="Mediaset",La 5
@@ -93,7 +93,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-chno="36" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rtl.svg" group-title="Radio",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="WarnerTV.it" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/warnertv.svg" group-title="Discovery",Warner TV
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/discovery.svg" group-title="Discovery",Discovery Channel
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 
 #EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="38" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/giallo.svg" group-title="Discovery",Giallo
@@ -132,7 +132,7 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/skytg24.svg" group-title="Sky",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1758090459~exp=1758090759~acl=/*~hmac=4956b1c4f17c980e8d2244c63e15fca09cf17cb571ac77c73410cfb4885dc3bd
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1759690163~exp=1759690463~acl=/*~hmac=22583fc1e3b12602ccdd4b4dd5e21b2e33e178c804d39f5017281f3f9eb1a3a0
 
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tgcom24.svg" group-title="Mediaset",TGCOM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
@@ -194,7 +194,7 @@ https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd
 https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd
 
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-chno="65" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/almatv.webp" group-title="Altro",Alma TV
-https://5a1178b42cc03.streamlock.net/alma/alma/playlist.m3u8
+https://almatv.tv/video/viewlivestreaming?rel=47165&cntr=0
 
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai4k.svg" group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
