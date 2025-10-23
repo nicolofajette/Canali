@@ -258,7 +258,7 @@ https://www.dailymotion.com/cdn/live/video/x9h54mc.m3u8?sec=Vz57vzEFun3vCVlXi5yN
 
 
 #EXTINF:-1 tvg-id="MotorsportTv.it" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/motorsporttv.webp" group-title="Sport",Motorsport Tv
-https://stream10.xdevel.com/video7s977812-2253/stream/playlist.m3u8
+https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
 
 #EXTINF:-1 tvg-id="ACISportTv.it" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/acisporttv.webp" group-title="Sport",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
@@ -285,7 +285,7 @@ http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6549306c83595c000815a696/ma
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="CBDSportsNetwork.us" tvg-chno="212" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="Sport",CBS Sports Network
-htFrisbee.41.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports.us" tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/foxsports.webp" group-title="Sport",Fox Sports
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -300,7 +300,7 @@ https://tvpass.org/live/FoxSports2/hd
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="FanDuelTv.us" tvg-chno="214" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/fandueltv.webp" group-title="Sport",FanDuel Tv
-https://fl41.moveonjoy.com/PAC_12/index.m3u8
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
 
 #EXTINF:-1 tvg-id="FanDuelTvExtra.us" tvg-chno="214" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/fandueltv.webp" group-title="Sport",FanDuel Tv Extra
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -309,31 +309,31 @@ http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/650b68bc2ce8e40008ac9c14/ma
 http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-chno="216" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/nbatv.svg" group-title="Sport",NBA TV
-http://fl41.moveonjoy.com/NBA_TV/index.m3u8
+http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn1.webp" group-title="Sport",TSN1
-http://fl41.moveonjoy.com/TSN_1/index.m3u8
+http://fl1.moveonjoy.com/TSN_1/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn2.webp" group-title="Sport",TSN2
-http://fl41.moveonjoy.com/TSN_2/index.m3u8
+http://fl1.moveonjoy.com/TSN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn3.webp" group-title="Sport",TSN3
-http://fl41.moveonjoy.com/TSN_3/index.m3u8
+http://fl1.moveonjoy.com/TSN_3/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn4.webp" group-title="Sport",TSN4
-http://fl41.moveonjoy.com/TSN_4/index.m3u8
+http://fl1.moveonjoy.com/TSN_4/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",TSN5
-http://fl41.moveonjoy.com/TSN_5/index.m3u8
+http://fl1.moveonjoy.com/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNNews.us" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN News
-http://fl41.moveonjoy.com/ESPN_NEWS/index.m3u8
+http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN
 https://tvpass.org/live/ESPN/hd
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN 2
-http://fl41.moveonjoy.com/ESPN_2/index.m3u8
+http://fl1.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN Deportes
 https://tvpass.org/live/espn-deportes/hd
@@ -413,6 +413,4 @@ https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/ra
 https://760869f771b04ca8a1e4daa89dd6da3e.msvdn.net/live/S88650405/33lZG4owunfW/manifest.mpd
 
 #EXTINF:-1 tvg-id="radioSportiva.it" tvg-chno="317" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiosportiva.webp" group-title="Radio",Radio Sportiva
-
 https://sportiva.inmystream.it/stream/sportiva
-
