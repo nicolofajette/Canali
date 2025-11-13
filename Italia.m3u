@@ -169,7 +169,7 @@ https://origin.streamup.eu/sportitaliain/sisolocalcio/manifest.mpd
 https://origin.streamup.eu/sportitaliain/silive24/manifest.mpd
 
 #EXTINF:-1 tvg-id="TravelTV.it" tvg-chno="61" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/traveltv.webp" group-title="Altro",Travel TV
-https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/donnatv.webp" group-title="Altro",Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
@@ -194,7 +194,10 @@ https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd
 https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd
 
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-chno="65" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/almatv.webp" group-title="Altro",Alma TV
-https://almatv.tv/video/viewlivestreaming?rel=47165&cntr=0
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Il61.it" tvg-chno="65" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/almatv.webp" group-title="Altro",Il 61
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai4k.svg" group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
