@@ -272,10 +272,10 @@ http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/880
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-chno="200" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport24
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/freeshot/SkySport24IT
 
-#EXTINF:-1 tvg-id="skysportuno.i" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
+#EXTINF:-1 tvg-id="skySportUno.i" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Uno
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/freeshot/SkySportUnoIT
 
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Tennis
+#EXTINF:-1 tvg-id="skySportTennis.it" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Tennis
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/freeshot/SkySportTennisIT
 
 #EXTINF:-1 tvg-id="SkySportArena.it" tvg-chno="203" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Sport",Sky Sport Arena
@@ -408,17 +408,20 @@ http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/357
 #EXTINF:-1 tvg-id="MTRSPT1.us" tvg-chno="238" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/mtrspt1.webp" group-title="Sport",MTRSPT1
 https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT1.uk" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 1 UK
+#EXTINF:-1 tvg-id="TNT1.ca" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 1 UK
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/31
 
-#EXTINF:-1 tvg-id="TNT2.uk" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 2 UK
+#EXTINF:-1 tvg-id="TNT2.ca" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 2 UK
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/32
 
-#EXTINF:-1 tvg-id="TNT3.uk" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 3 UK
+#EXTINF:-1 tvg-id="TNT3.ca" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 3 UK
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/33
 
-#EXTINF:-1 tvg-id="TNT4.uk" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 4 UK
+#EXTINF:-1 tvg-id="TNT4.ca" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 4 UK
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/34
+
+#EXTINF:-1 tvg-id="TNT5.ca" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 5 UK
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/35
 
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-chno="240" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/servustv.webp" group-title="Sport",ServusTV
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
@@ -513,5 +516,38 @@ https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/ra
 https://760869f771b04ca8a1e4daa89dd6da3e.msvdn.net/live/S88650405/33lZG4owunfW/manifest.mpd
 
 #EXTINF:-1 tvg-id="radioSportiva.it" tvg-chno="317" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiosportiva.webp" group-title="Radio",Radio Sportiva
-
 https://sportiva.inmystream.it/stream/sportiva
+
+
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-chno="200" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Extra",Sky Sport24
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/869
+
+#EXTINF:-1 tvg-id="skySportUno.i" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Extra",Sky Sport Uno
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/881
+
+#EXTINF:-1 tvg-id="skySportTennis.it" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Extra",Sky Sport Tennis
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/576
+
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-chno="203" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Extra",Sky Sport Arena
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/462
+
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-chno="204" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Extra",Sky Sport F1
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/577
+
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-chno="205" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Extra",Sky Sport MotoGP
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/575
+
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-chno="206" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Extra",Sky Sport Calcio
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/870
+
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-chno="207" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Extra",Sky Sport Max
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/460
+
+#EXTINF:-1 tvg-id="Eurosport1.it" tvg-chno="210" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Extra",Eurosport 1
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/878
+
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Extra",Eurosport 2
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/879
+
+#EXTINF:-1 tvg-id="Dazn1.it" tvg-chno="212" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Extra",Zona Dazn
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/877
