@@ -124,7 +124,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rainews24.svg" group-title="Rai",Rai News 24
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/ABCD/Rai/RaiNews24_IT/rainews1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Italia2.it" tvg-chno="49" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/italia2.svg" group-title="Mediaset",Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
@@ -259,9 +259,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassCNBC.it" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/classcnbc.svg" group-title="Altro",Class CNBC
 https://www.dailymotion.com/cdn/live/video/x9h54mc.m3u8?sec=Vz57vzEFun3vCVlXi5yN-A_5EaefY5H6F3ba_YY1ja85r4gtFzBue8u0IhX_jPzg&organizationId=15209&suiteItemId=65433
 
-
-#EXTINF:-1 tvg-id="MotorsportTv.it" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/motorsporttv.webp" group-title="Sport",Motorsport Tv
-https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
 
 #EXTINF:-1 tvg-id="ACISportTv.it" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/acisporttv.webp" group-title="Sport",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
