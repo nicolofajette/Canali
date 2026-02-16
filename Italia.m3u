@@ -321,8 +321,6 @@ http://vps-bc4b65e2.vps.ovh.net:1880/channel/freeshot/Euro2IT
 #EXTINF:-1 tvg-id="Dazn1.it" tvg-chno="212" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sport",Zona Dazn
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/freeshot/ZonaDazn
 
-#EXTINF:-1 tvg-id="MotorsportTv.it" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/motorsporttv.webp" group-title="Sport",Motorsport Tv
-https://eu.linear.zype.com/34713153-3597-42c0-bd0d-5023c3f60585/7823e98c-2e5f-49cf-8e73-425e237b86ff-hls4/live.m3u8
 
 #EXTINF:-1 tvg-id="ACISportTv.it" tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/acisporttv.webp" group-title="Sport",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
@@ -346,7 +344,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
 
 #EXTINF:-1 tvg-id="CBDSportsNetwork.us" tvg-chno="230" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="Sport",CBS Sports Network
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/308                                       
 
 #EXTINF:-1 tvg-id="NBCSports.us" tvg-chno="231" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/nbcsports.webp" group-title="Sport",NBC Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
@@ -355,7 +353,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-chno="232" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/foxsports.webp" group-title="Sport",Fox Sports 1
-https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/39
 
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-chno="232" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/foxsports.webp" group-title="Sport",Fox Sports 2
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/758
@@ -376,7 +374,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-chno="235" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/nbatv.svg" group-title="Sport",NBA TV
-http://fl1.moveonjoy.com/NBA_TV/index.m3u8
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/404
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-chno="236" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn1.webp" group-title="Sport",TSN1
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/111
@@ -394,7 +392,7 @@ http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/114
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/115
 
 #EXTINF:-1 tvg-id="ESPNNews.us" tvg-chno="237" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN News
-http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/288
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-chno="237" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN
 http://vps-bc4b65e2.vps.ovh.net:1880/channel/ustv/44
@@ -431,12 +429,6 @@ https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds
 
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-chno="242" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe
 https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
-
-#EXTINF:-1 tvg-id="LEquipeLive1.fr" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe Live 1
-https://d3fikx9gxqicmt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/Lequipe1_FR.m3u8
-
-#EXTINF:-1 tvg-id="LEquipeLive2.fr" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe Live 2
-https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
 
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-chno="243" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/teledeporte.webp" group-title="Sport",Teledeporte
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
