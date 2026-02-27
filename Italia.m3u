@@ -22,7 +22,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tv8.svg" group-title="Sky",TV8
-http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/7
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/7
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/nove.svg" group-title="Discovery",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
@@ -61,7 +61,7 @@ https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playli
 https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cielo.svg" group-title="Sky",Cielo
-http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/2
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/2
 
 #EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/twentyseven.svg" group-title="Mediaset",Twenty Seven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
@@ -130,7 +130,7 @@ https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/skytg24.svg" group-title="Sky",Sky TG24
-http://vps-bc4b65e2.vps.ovh.net:1880/channel/sky/1
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/1
 
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tgcom24.svg" group-title="Mediaset",TGCOM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
@@ -238,10 +238,10 @@ https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
 
 #EXTINF:-1 tvg-id="SMtv.it" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/sanmarinortv.svg" group-title="Altro",RTV San Marino
-http://vps-bc4b65e2.vps.ovh.net:1880/channel/smtv/0
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/smtv/0
 
 #EXTINF:-1 tvg-id="SMtvSport.it" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/sanmarinortvsport.svg" group-title="Altro",RTV San Marino Sport
-http://vps-bc4b65e2.vps.ovh.net:1880/channel/smtv/1
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/smtv/1
 
 #EXTINF:-1 tvg-id="Senatotv.it" tvg-chno="106" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/senato.webp" group-title="Altro",Senato Italiano
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
