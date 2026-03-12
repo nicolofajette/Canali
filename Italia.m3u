@@ -322,6 +322,9 @@ http://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/Euro2IT
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/freeshot/ZonaDazn
 
 
+#EXTINF:-1 tvg-id="RallyTV.it" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/acisporttv.webp" group-title="Sport",Rally.tv
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/696e0fe49ba4ac18057433ac
+
 #EXTINF:-1 tvg-id="ACISportTv.it" tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/acisporttv.webp" group-title="Sport",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
