@@ -431,10 +431,10 @@ https://netplus.zappr.stream/servustvhd.m3u8
 https://netplus.zappr.stream/sport1.m3u8
 
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-chno="242" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe
-https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/645
 
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-chno="243" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/teledeporte.webp" group-title="Sport",Teledeporte
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/529
 
 #EXTINF:-1 tvg-id="Dazn1.es" tvg-chno="244" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sport",Dazn 1 Spain
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/445
@@ -443,10 +443,10 @@ http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/445
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/446
 
 #EXTINF:-1 tvg-id="Dazn3.es" tvg-chno="244" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sport",Dazn 3 Spain
-http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/446
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/447
 
 #EXTINF:-1 tvg-id="Dazn4.es" tvg-chno="244" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Sport",Dazn 4 Spain
-http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/447
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/448
 
 #EXTINF:-1 tvg-id="DigiSport1.ro" tvg-chno="244" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",Digi Sport 1 Romania
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/400
@@ -499,9 +499,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 
 #EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-chno="313" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiomontecarlo.webp" group-title="Radio",Radio Montecarlo TV
 https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
-
-#EXTINF:-1 tvg-id="rdstvseriea" tvg-chno="314" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiotvseriea.webp" group-title="Radio",Radio TV Serie A
-https://cdn-edge-05-edc-mi-caldera.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 
 #EXTINF:-1 tvg-id="radio1sport.it" tvg-chno="315" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rairadio1sport.svg" group-title="Radio",Rai Radio 1 Sport
 https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/radiounosportita/playlist.m3u8
