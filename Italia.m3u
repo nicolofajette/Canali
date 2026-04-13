@@ -37,10 +37,10 @@ https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RSILa1.it" tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila1.svg" group-title="Altro",RSI La1
-https://netplus.zappr.stream/rsila1hd.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/rsila1hd
 
 #EXTINF:-1 tvg-id="RSILa2.it" tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila2.svg"  group-title="Altro",RSI La2
-https://netplus.zappr.stream/rsila2hd.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/rsila2hd
 
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/20.svg" group-title="Mediaset",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -70,7 +70,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LA7D.it" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/la7cinema.svg" group-title="Altro",LA7 D
-https://netplus.zappr.stream/la7d.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/la7d
 
 #EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/la5.svg" group-title="Mediaset",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
@@ -425,10 +425,10 @@ http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/34
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/35
 
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-chno="240" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/servustv.webp" group-title="Sport",ServusTV
-https://netplus.zappr.stream/servustvhd.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/servustvhd
 
 #EXTINF:-1 tvg-id="Sport1.de" tvg-chno="241" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/sport1.svg" group-title="Sport",Sport1
-https://netplus.zappr.stream/sport1.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/sport1
 
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-chno="242" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/645
