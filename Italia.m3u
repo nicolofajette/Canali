@@ -515,7 +515,7 @@ https://sportiva.inmystream.it/stream/sportiva
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/869
 
 #EXTINF:-1 tvg-id="skySportUno.i" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Extra",Sky Sport Uno
-http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/881
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/461
 
 #EXTINF:-1 tvg-id="skySportTennis.it" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/skysport.webp" group-title="Extra",Sky Sport Tennis
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/576
