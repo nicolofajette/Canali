@@ -365,7 +365,7 @@ http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/758
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/756
 
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-chno="232" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/foxsports.webp" group-title="Sport",Fox Sports Deportes
-http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/634
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/643
 
 #EXTINF:-1 tvg-id="FanDuelTv.us" tvg-chno="233" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/fandueltv.webp" group-title="Sport",FanDuel Tv
 https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
@@ -420,9 +420,6 @@ http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/33
 
 #EXTINF:-1 tvg-id="TNT4.ca" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 4 UK
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/34
-
-#EXTINF:-1 tvg-id="TNT5.ca" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 5 UK
-http://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/35
 
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-chno="240" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/servustv.webp" group-title="Sport",ServusTV
 http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/servustvhd
