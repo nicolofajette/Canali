@@ -37,10 +37,10 @@ https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RSILa1.it" tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila1.svg" group-title="Altro",RSI La1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/rsila1hd
 
 #EXTINF:-1 tvg-id="RSILa2.it" tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila2.svg"  group-title="Altro",RSI La2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/rsila2hd
 
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/20.svg" group-title="Mediaset",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -70,7 +70,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LA7D.it" tvg-chno="29" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/la7cinema.svg" group-title="Altro",LA7 D
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/la7d
 
 #EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/la5.svg" group-title="Mediaset",La 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
@@ -221,6 +221,9 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAfrica.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiitalia.svg" group-title="Rai",Rai Italia Africa
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 
+#EXTINF:-1 tvg-id="RaiItaliaUsa.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiitalia.svg" group-title="Rai",Rai Italia Usa
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
+
 #EXTINF:-1 tvg-id="RaiItaliaSudAmerica.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiitalia.svg" group-title="Rai",Rai Italia Sud America
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
 
@@ -246,7 +249,7 @@ http://vps-bc4b65e2.vps.ovh.net:8080/channel/smtv/1
 #EXTINF:-1 tvg-id="Senatotv.it" tvg-chno="106" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/senato.webp" group-title="Altro",Senato Italiano
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gamberorosso.it" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/gamberorosso.svg" group-title="Altro",Gambero Rosso
+#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/gamberorosso.svg" group-title="Altro",Gambero Rosso
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://www.dailymotion.com/cdn/live/video/x9u215s.mpd?sec=3FE6qHnAR5mSywqiY3XmMw
 
@@ -276,19 +279,16 @@ https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb
 https://64b16f23efbee.streamlock.net/gooo/gooo/manifest.mpd
 
 #EXTINF:-1 tvg-id="Golazo.us" tvg-chno="230" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/golazo.webp" group-title="Sport",Golazo - SerieA
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/63a0e33a45264d000850ed7e
 
 #EXTINF:-1 tvg-id="CBDSportsHQ.us" tvg-chno="230" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="Sport",CBS Sports HQ
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
-
-#EXTINF:-1 tvg-id="CBDSportsNetwork.us" tvg-chno="230" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cbssportshq.webp" group-title="Sport",CBS Sports Network
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/5e9f2c05172a0f0007db4786
 
 #EXTINF:-1 tvg-id="NBCSports.us" tvg-chno="231" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/nbcsports.webp" group-title="Sport",NBC Sports
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/6549306c83595c000815a696
 
 #EXTINF:-1 tvg-id="FoxSports.us" tvg-chno="232" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/foxsports.webp" group-title="Sport",Fox Sports
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/5a74b8e1e22a61737979c6bf
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/foxsports.webp" group-title="Sport",Fox Sports 1
 https://tvpass.org/live/FoxSports1/hd
@@ -296,71 +296,32 @@ https://tvpass.org/live/FoxSports1/hd
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/foxsports.webp" group-title="Sport",Fox Sports 2
 https://tvpass.org/live/FoxSports2/hd
 
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/foxsports.webp" group-title="Sport",Fox Sports Deportes
-http://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="FanDuelTv.us" tvg-chno="214" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/fandueltv.webp" group-title="Sport",FanDuel Tv
-https://fl1.moveonjoy.com/PAC_12/index.m3u8
-
 #EXTINF:-1 tvg-id="FanDuelTvExtra.us" tvg-chno="233" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/fandueltv.webp" group-title="Sport",FanDuel Tv Extra
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650b68bc2ce8e40008ac9c14/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/650b68bc2ce8e40008ac9c14
 
 #EXTINF:-1 tvg-id="DaznDarts.com" tvg-chno="234" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/dazndarts.webp" group-title="Sport",DAZN Darts
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appVersion=unknown&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&sid=unknown
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/pluto/64b67f0424ade50008a3be17
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-chno="216" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/nbatv.svg" group-title="Sport",NBA TV
-http://fl1.moveonjoy.com/NBA_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn1.webp" group-title="Sport",TSN1
-http://fl1.moveonjoy.com/TSN_1/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn2.webp" group-title="Sport",TSN2
-http://fl1.moveonjoy.com/TSN_2/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn3.webp" group-title="Sport",TSN3
-http://fl1.moveonjoy.com/TSN_3/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn4.webp" group-title="Sport",TSN4
-http://fl1.moveonjoy.com/TSN_4/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",TSN5
-http://fl1.moveonjoy.com/TSN_5/index.m3u8
+https://tvpass.org/live/NBATV/hd
 
 #EXTINF:-1 tvg-id="ESPNNews.us" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN News
-http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+https://tvpass.org/live/ESPNews/hd
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN
 https://tvpass.org/live/ESPN/hd
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN 2
-http://fl1.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/tsn5.webp" group-title="Sport",ESPN Deportes
-https://tvpass.org/live/espn-deportes/hd
+https://tvpass.org/live/ESPN2/hd
 
 #EXTINF:-1 tvg-id="MTRSPT1.us" tvg-chno="219" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/mtrspt1.webp" group-title="Sport",MTRSPT1
 https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe
-https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
-
-#EXTINF:-1 tvg-id="LEquipeLive1.fr" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe Live 1
-https://d3fikx9gxqicmt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3rguah8p42dlq/Lequipe1_FR.m3u8
-
-#EXTINF:-1 tvg-id="LEquipeLive2.fr" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/equipetv.webp" group-title="Sport",L'Equipe Live 2
-https://d2sfyr4abdyf7s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d5yhiqv8rl7x3/Lequipe2_FR.m3u8
-
 #EXTINF:-1 tvg-id="ServusTV.de" tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/servustv.webp" group-title="Sport",ServusTV
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport.de" tvg-chno="223" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/eurosport.webp" group-title="Sport",Eurosport De
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/servustvhd
 
 #EXTINF:-1 tvg-id="Sport1.de" tvg-chno="224" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/sport1.svg" group-title="Sport",Sport1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
-
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-chno="226" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/teledeporte.webp" group-title="Sport",Teledeporte
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+http://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/sport1
 
 
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio105.svg" group-title="Radio",Radio 105 TV
