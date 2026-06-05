@@ -25,7 +25,7 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/7
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/nove.svg" group-title="Discovery",NOVE
-http://locatelliresults.homepc.it:1880/channel/discovery/3
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/discovery/3
 
 #EXTINF:-1 tvg-id="Primocanale.it" tvg-chno="10" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/primocanale.svg" group-title="Locali",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
@@ -76,13 +76,13 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/la7d
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="RealTime.it" tvg-chno="31" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/realtime.svg" group-title="Discovery",Real Time
-http://locatelliresults.homepc.it:1880/channel/discovery/2
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/discovery/2
 
 #EXTINF:-1 tvg-id="QVC.it" tvg-chno="32" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/qvc.svg" group-title="Altro",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/foodnetwork.svg" group-title="Discovery",Food Network
-http://locatelliresults.homepc.it:1880/channel/discovery/6
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/discovery/6
 
 #EXTINF:-1 tvg-id="Cine34.it" tvg-chno="34" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cine34.svg" group-title="Mediaset",Cine34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
@@ -94,10 +94,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/discovery.svg" group-title="Discovery",Discovery Channel
-http://locatelliresults.homepc.it:1880/channel/discovery/12
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/discovery/12
 
 #EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="38" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/giallo.svg" group-title="Discovery",Giallo
-http://locatelliresults.homepc.it:1880/channel/discovery/27
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/discovery/27
 
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="39" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/topcrime.svg" group-title="Mediaset",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
@@ -136,7 +136,7 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/dmax.svg" group-title="Discovery",DMAX
-http://locatelliresults.homepc.it:1880/channel/discovery/4
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/discovery/4
 
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="Rai",Rai Storia
 https://raistoria3-live.akamaized.net/hls/live/2018017/raistoria3/raistoria3/playlist.m3u8
@@ -145,7 +145,7 @@ https://raistoria3-live.akamaized.net/hls/live/2018017/raistoria3/raistoria3/pla
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTV.it" tvg-chno="56" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/hgtv.svg" group-title="Discovery",HGTV HD
-http://locatelliresults.homepc.it:1880/channel/discovery/13
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/discovery/13
 
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="57" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiscuola.svg" group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -155,7 +155,7 @@ https://raiscuola1-dash-live.akamaized.net/dash/live/663975/raiscuola1/manifest.
 https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-chno="59" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/discoveryturbo.svg" group-title="Discovery",Motor Trend
-http://locatelliresults.homepc.it:1880/channel/discovery/11
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/discovery/11
 
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/sportitalia.svg" group-title="Sport",Sportitalia
 https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8
@@ -543,3 +543,9 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/879
 
 #EXTINF:-1 tvg-id="Dazn1.it" tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/dazn.svg" group-title="Extra",Zona Dazn
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/877
+
+#EXTINF:-1 tvg-id="RSILa1.it" tvg-chno="220" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila1.svg" group-title="Extra",RSI La1
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/rsila1hd
+
+#EXTINF:-1 tvg-id="RSILa2.it" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila2.svg"  group-title="Extra",RSI La2
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/rsila2hd
