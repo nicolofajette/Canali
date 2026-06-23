@@ -2,6 +2,7 @@
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai1.svg" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai2.svg" group-title="Rai",Rai 2
@@ -38,10 +39,14 @@ https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RSILa1.it" tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila1.svg" group-title="Altro",RSI La1
-https://lb.dstv.cx/RSILa1/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=09af5f6eb89041ca8f5d164165142e86:1989cc9c9ce5b2b52cb93edaaefe8420,d268d810d8a73bd8b7d54a6a087581d2:1aaf297543168c625e05aa9e27344471
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd
 
 #EXTINF:-1 tvg-id="RSILa2.it" tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila2.svg"  group-title="Altro",RSI La2
-https://lb.dstv.cx/RSILa2/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=117d07fd98cc46ef8e09936d0d37c506:b9528cb3f23eaad789f0f33bf6b01868,166b2f0d56fb32d9b46d4b1ca1b5bf16:d78ee5c91eb3b9b6d37414a4f789bc9b
+https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
 
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/20.svg" group-title="Mediaset",20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
@@ -107,7 +112,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="K2.it" tvg-chno="41" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/k2.svg" group-title="Discovery",K2
-https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd863fc1178e3683bdfe675b23510400:560f3a909a9d14617ef4d50e646d68ca
+https://wp12-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV00480/stb-dash-sd-avc/SV00480.mpd
 
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raigulp.svg" group-title="Rai",Rai Gulp
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
@@ -116,7 +123,9 @@ https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.
 https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/frisbee.webp" group-title="Discovery",Frisbee
-https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f4025051113d94bde9df9e324dd3c7:d7228bd3243e38a9b531f4e5d316454b
+https://wp13-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV00478/stb-dash-sd-avc/SV00478.mpd
 
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cartoonito.svg" group-title="Mediaset",Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
@@ -237,7 +246,7 @@ https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
 #EXTINF:-1 tvg-id="MediasetItalia.it" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/mediasetextra.svg" group-title="Mediaset",Mediaset Italia
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 
-#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai3.svg" group-title="Rai",Rai 3 Liguria
+#EXTINF:-1 tvg-id="Rai3.Liguria.it" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai3.svg" group-title="Rai",Rai 3 Liguria
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
 
@@ -550,3 +559,34 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/rsila1hd
 
 #EXTINF:-1 tvg-id="RSILa2.it" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rsila2.svg"  group-title="Extra",RSI La2
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/netplus/rsila2hd
+
+
+#EXTINF:-1 tvg-id="Eurosport.Italia.it" tvg-chno="301" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/eurosport.webp" group-title="Eurosport",Eurosport 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=610bcda111c74c97b0792b059630a10b:b9817853538459b371f3fb56a267d55c
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport.2.Italia.it" tvg-chno="302" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/eurosport.webp" group-title="Eurosport",Eurosport 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=700b3619ccfb4c0cbd2bb26832e643cf:b2c7c4b6f3375b8e07c42f95668dadeb
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport.3.Italia.it" tvg-chno="303" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/eurosport.webp" group-title="Eurosport",Eurosport 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fd7709359db4103ae799d5f8d79ae0b:6d39ec4186bed97705274a6c78c69d94
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport3)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport.4Italia.it" tvg-chno="304" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/eurosport.webp" group-title="Eurosport",Eurosport 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=026e140de784409b9c437fcc0212977c:6f5ad01fa42deede99ae7c6ccf5215d7
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport4)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport.5.Italia.it" tvg-chno="306" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/eurosport.webp" group-title="Eurosport",Eurosport 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6844bc96d46e4677a322cd4838705489:6b483aa12ba85bad2e84efb4bc6a9893
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport5)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Eurosport.6.Italia.it" tvg-chno="306" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/eurosport.webp" group-title="Eurosport",Eurosport 6
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69982165690d4fef90d3f4d4e245fc27:49711e568736d9ae3ea7993571c9bcce
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport6)/manifest.mpd
