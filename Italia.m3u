@@ -425,7 +425,7 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/45
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/357
 
 #EXTINF:-1 tvg-id="MTRSPT1.us" tvg-chno="238" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/mtrspt1.webp" group-title="Sport",MTRSPT1
-https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT1.ustv.ca" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Sport",TNT Sport 1 UK
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/ustv/31
