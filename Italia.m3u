@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai1.svg" group-title="Rai",Rai 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai2.svg" group-title="Rai",Rai 2
@@ -63,7 +62,8 @@ https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/pla
 https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raipremium.svg" group-title="Rai",Rai Premium
-https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/cielo.svg" group-title="Sky",Cielo
 https://vps-bc4b65e2.vps.ovh.net:8080/channel/sky/2
@@ -119,7 +119,8 @@ https://wp12-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV00480/s
 https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-chno="43" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiyoyo.svg" group-title="Rai",Rai Yoyo
-https://raiyoyo3-live.akamaized.net/hls/live/2018014/raiyoyo3/raiyoyo3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/frisbee.webp" group-title="Discovery",Frisbee
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -157,11 +158,12 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="57" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raiscuola.svg" group-title="Rai",Rai Scuola
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raiscuola1-dash-live.akamaized.net/dash/live/663975/raiscuola1/manifest.mpd
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="58" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/raisport.svg" group-title="Rai",Rai Sport
-https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-chno="59" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/discoveryturbo.svg" group-title="Discovery",Motor Trend
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
@@ -185,19 +187,19 @@ https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis+1.it" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/supertennisplus.svg" group-title="Sport",Supertennis Plus - Feed 1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd
 
 #EXTINF:-1 tvg-id="SuperTennis+2.it" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/supertennisplus.svg" group-title="Sport",Supertennis Plus - Feed 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel2/manifest.mpd
 
 #EXTINF:-1 tvg-id="SuperTennis+3.it" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/supertennisplus.svg" group-title="Sport",Supertennis Plus - Feed 3
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd
 
 #EXTINF:-1 tvg-id="SuperTennis+4.it" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/supertennisplus.svg" group-title="Sport",Supertennis Plus - Feed 4
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd
 
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-chno="65" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/almatv.webp" group-title="Altro",Alma TV
@@ -243,7 +245,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.Liguria.it" tvg-chno="3" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/rai3.svg" group-title="Rai",Rai 3 Liguria
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
 
 #EXTINF:-1 tvg-id="SMtv.it" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/sanmarinortv.svg" group-title="Altro",RTV San Marino
@@ -256,7 +258,7 @@ https://vps-bc4b65e2.vps.ovh.net:8080/channel/smtv/1
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GamberoRosso.it" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/gamberorosso.svg" group-title="Altro",Gambero Rosso
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://www.dailymotion.com/cdn/live/video/x9u215s.mpd?sec=3FE6qHnAR5mSywqiY3XmMw
 
 #EXTINF:-1 tvg-id="LiveNow.us" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/livenowfromfox.svg" group-title="Altro",LiveNOW from FOX
@@ -519,7 +521,7 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 https://radiounosportita-live.akamaized.net/hls/live/2032590/radiounosportita/radiounosportita/playlist.m3u8
 
 #EXTINF:-1 tvg-id="radio24tv.it" tvg-chno="316" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radio24tv.webp" group-title="Radio",Radio 24 - Il Sole 24 Ore TV
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=HbbTV/1.7.1
 https://760869f771b04ca8a1e4daa89dd6da3e.msvdn.net/live/S88650405/33lZG4owunfW/manifest.mpd
 
 #EXTINF:-1 tvg-id="radioSportiva.it" tvg-chno="317" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/radiosportiva.webp" group-title="Radio",Radio Sportiva
